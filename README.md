@@ -1,4 +1,4 @@
-# Javascript lesson 1: Basics
+# Javascript Practice
 
 Due October 3, 2020
 
