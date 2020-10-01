@@ -1,5 +1,5 @@
-# Javascript lesson 1: Basics
+# Javascript Lessons
 
 Due October 3, 2020
 
-Daniella Cortez
+Daniella Cortez 
